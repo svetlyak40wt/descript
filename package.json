@@ -13,6 +13,7 @@
         "url": "git://github.com/pasaran/descript.git"
     },
     "dependencies": {
+        "cocaine": "^0.12.1-r07",
         "nopt": "*",
         "nommon": "0.0.28",
         "no.colors": "0.0.1"
